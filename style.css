@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:#CD113B;
+}
+
+.container{
+    background-color:#FFA900 ;
+    height: 100%;
+    width: 70%;
+    margin:0 auto;
+    padding:50px;
+}
+.header{
+    text-align: center ;
+    font-size: 70px;
+}
+h1, p{
+    font-family: 'Ruslan Display', cursive;
+}
+.social-link img{
+    width: 64px;
+}
+.footer3{
+    height: 150px;
+    background-color: lightpink;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footer3 h1{
+    border-bottom: 5px solid palegreen;
+    width: 300px;
+
+}
